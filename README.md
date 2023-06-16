@@ -1,4 +1,4 @@
-### Wordle
+### Super Mario
 
 ## Thông tin
 
